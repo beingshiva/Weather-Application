@@ -42,7 +42,7 @@ The Weather App Project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding the Weather App Project, feel free to contact Shiva at beingshiva78@gmail.com. and my linkedin profile :
+If you have any questions or suggestions regarding the Weather App Project, feel free to contact Shiva at beingshiva78@gmail.com. and My linkedin :
 https://www.linkedin.com/in/shiva2478/
 
 Stay updated with the Weather App Project!
